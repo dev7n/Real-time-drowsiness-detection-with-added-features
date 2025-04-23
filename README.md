@@ -21,7 +21,7 @@ A real-time drowsiness detection system using computer vision techniques. It lev
 1. Clone the repo:
    ```bash
    git clone https://github.com/dev7n/Real-time-drowsiness-detection.git
-   cd drowsiness-detecton
+   cd Real-time-drowsiness-detection
 
 2. Install the requirements (Refer to your package manager for python)
 
